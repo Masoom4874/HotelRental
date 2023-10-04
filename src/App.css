@@ -1,0 +1,26 @@
+.App {
+  min-height: 100vh;
+  min-width: 100vw;
+  background-color: #ecf2ff;
+}
+/* //extra css */
+
+.main-width {
+  width: 60vw;
+}
+
+.button-color {
+  background-color: #e3dffd;
+  transition: background-color 0.3s ease; /* Add a smooth transition effect */
+}
+
+.button-color:hover {
+  background-color: blue;
+  color: white;
+}
+
+/* CSS to change button background color on hover */
+.custom-btn:hover {
+  background-color: blue;
+  color: white; /* Optionally change text color to white */
+}
